@@ -1,5 +1,6 @@
 body {
   background-color: #F0F8FF;
+  font-family: sans-serif;
 }
 
 h1 {
@@ -42,7 +43,7 @@ img {
   padding: 10px;
 } I'm not sure why adding this messes up the grid on the bottom, taking out for now */
 
-p.row:first-child {
+p.row {
   text-align: center;
 }
 
