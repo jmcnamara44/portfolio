@@ -16,7 +16,7 @@ _This purpose application is see what I have learned in HTML, CSS, Bootstrap, Gi
 
 ## Known Bugs
 
-_No known bugs as of today_
+_I removed the column CSS rule because it moved content on the page around in a way I was not expecting._
 
 ## Support and contact details
 
