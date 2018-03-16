@@ -1,5 +1,5 @@
 body {
-  background-color: #F0F8FF;
+  background-color: salmon;
   font-family: sans-serif;
 }
 
@@ -22,9 +22,9 @@ img {
   float: left;
   height: 360px;
   width: 32%;
-  margin: 4px;
+  margin: 5px;
   border: 1px /*solid black;*/
-  padding: 2px;
+  padding: 5px;
   background-color: orange;
 }
 
@@ -37,13 +37,20 @@ img {
   font-weight: bold;
 }
 
+.table {
+  margin: ;
+  border: ;
+  padding: ;
+  background-color: gray;
+}
+
 /*.column {
   border: 1px solid black;
   margin: 10px;
   padding: 10px;
 } I'm not sure why adding this messes up the grid on the bottom, taking out for now */
 
-p.row {
+.row p {
   text-align: center;
 }
 
