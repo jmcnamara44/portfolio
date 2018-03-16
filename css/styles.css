@@ -20,7 +20,7 @@ img {
 
 .float {
   float: left;
-  height: 360px;
+  /*height: 360px;*/
   width: 32%;
   margin: 5px;
   border: 1px
@@ -41,7 +41,7 @@ img {
   margin: ;
   border: ;
   padding: ;
-  background-color: gray;
+  background-color: lightblue;
 }
 
 /*.column {
