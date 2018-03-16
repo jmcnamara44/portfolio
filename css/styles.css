@@ -22,9 +22,8 @@ img {
   float: left;
   /*height: 360px;*/
   width: 32%;
-  margin: 5px;
-  border: 1px
-  padding: 5px;
+  margin: 4px;
+  padding: 1px;
   background-color: orange;
 }
 
