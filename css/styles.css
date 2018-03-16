@@ -1,3 +1,7 @@
+body {
+  background-color: #F0F8FF;
+}
+
 .float {
   float: left;
   height: 350px;
@@ -20,12 +24,13 @@ h1 {
   text-align: center;
 }
 
-body {
-  background-color: #F0F8FF;
-}
+
 
 img {
-
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
 }
 
 footer {
@@ -39,4 +44,18 @@ footer {
 
 .col-xs-3 h3 {
   color: red;
+}
+
+.col-xs-2 h3 {
+  color: red;
+}
+
+.col-xs-3 {
+  margin: 1px;
+
+}
+
+.col-xs-2 {
+  margin: 1px;
+
 }
