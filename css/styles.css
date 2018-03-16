@@ -1,5 +1,5 @@
 body {
-  background-color: salmon;
+  background-color: lightgray;
   font-family: sans-serif;
 }
 
@@ -23,7 +23,7 @@ img {
   height: 360px;
   width: 32%;
   margin: 5px;
-  border: 1px /*solid black;*/
+  border: 1px
   padding: 5px;
   background-color: orange;
 }
@@ -50,9 +50,9 @@ img {
   padding: 10px;
 } I'm not sure why adding this messes up the grid on the bottom, taking out for now */
 
-.row p {
+.row h2 + p {
   text-align: center;
-}
+} /*I tried to use the first-child selector with this but it didn't work*/
 
 .column h3 {
   text-align: center;
